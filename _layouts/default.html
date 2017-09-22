@@ -17,21 +17,42 @@
     <!-- 自定义表格格式，以便正常显示 -->
     <style>
         table {
-            border-left: 1px solid #000000;
-            border-top: 1px solid #000000;
+            display: block;
             width: 100%;
-            word-wrap: break-word;
-            word-break: break-all;
+            overflow: auto;
+            margin-top: 0;
+            margin-bottom: 16px;
+            border-spacing: 0;
+            border-collapse: collapse;
+            border-spacing: 0;
+            border-collapse: collapse;
         }
 
-        table th {
-            text-align: center;
+        thead {
+            display: table-header-group;
+            vertical-align: middle;
+            border-color: inherit;
+        }
+
+        tbody {
+            display: table-header-group;
+            vertical-align: middle;
+            border-color: inherit;
+        }
+
+        table tr {
+            background-color: #fff;
+            border-top: 1px solid #c6cbd1;
+            display: table-row;
+            vertical-align: inherit;
+            border-color: inherit;
         }
 
         table th, td {
-            border-right: 1px solid #000000;
-            border-bottom: 1px solid #000000;
+            padding: 6px 13px;
+            border: 1px solid #dfe2e5;
         }
+
     </style>
 </head>
 
