@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            <state relative-caret-position="532">
+              <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -105,19 +105,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-9-22-for-var.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-9-22-for-var.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-9-22-for-var.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="209">
-                <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="559">
+                <caret line="120" column="9" lean-forward="true" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
                 <folding>
-                  <marker date="1506076614355" expanded="true" signature="12:16" ph="post" />
-                  <marker date="1506076614355" expanded="true" signature="24:46" ph="测试JS循环体中变…于不同位置的时间代价" />
-                  <marker date="1506076614355" expanded="true" signature="952:1097" ph="..." />
-                  <marker date="1506076614355" expanded="true" signature="963:1047" ph="..." />
-                  <marker date="1506076614355" expanded="true" signature="1058:1097" ph="..." />
-                  <marker date="1506076614355" expanded="true" signature="1202:1243" ph="..." />
+                  <marker date="1506078011448" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1506078011448" expanded="true" signature="24:46" ph="测试JS循环体中变…于不同位置的时间代价" />
+                  <marker date="1506078011448" expanded="true" signature="948:1069" ph="..." />
+                  <marker date="1506078011448" expanded="true" signature="955:1027" ph="..." />
+                  <marker date="1506078011448" expanded="true" signature="1034:1069" ph="..." />
+                  <marker date="1506078011448" expanded="true" signature="1154:1187" ph="..." />
+                  <marker date="1506078011448" expanded="true" signature="1232:1278" ph="{...}" />
+                  <marker date="1506078011448" expanded="true" signature="1322:1678" ph="{...}" />
+                  <marker date="1506078011448" expanded="true" signature="1426:1550" ph="{...}" />
+                  <marker date="1506078011448" expanded="true" signature="1728:2095" ph="{...}" />
+                  <marker date="1506078011448" expanded="true" signature="1847:1967" ph="{...}" />
+                  <marker date="1506078011448" expanded="true" signature="2144:2496" ph="{...}" />
+                  <marker date="1506078011448" expanded="true" signature="2288:2368" ph="{...}" />
+                  <marker date="1506078011448" expanded="true" signature="2569:2619" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -888,12 +896,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506067072926</updated>
-      <workItem from="1506067074674" duration="7787000" />
+      <workItem from="1506067074674" duration="8785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7787000" />
+    <option name="totallyTimeSpent" value="8785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1106,29 +1114,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-9-22-for-var.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="209">
-            <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="559">
+            <caret line="120" column="9" lean-forward="true" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
             <folding>
-              <marker date="1506076614355" expanded="true" signature="12:16" ph="post" />
-              <marker date="1506076614355" expanded="true" signature="24:46" ph="测试JS循环体中变…于不同位置的时间代价" />
-              <marker date="1506076614355" expanded="true" signature="952:1097" ph="..." />
-              <marker date="1506076614355" expanded="true" signature="963:1047" ph="..." />
-              <marker date="1506076614355" expanded="true" signature="1058:1097" ph="..." />
-              <marker date="1506076614355" expanded="true" signature="1202:1243" ph="..." />
+              <marker date="1506078011448" expanded="true" signature="12:16" ph="post" />
+              <marker date="1506078011448" expanded="true" signature="24:46" ph="测试JS循环体中变…于不同位置的时间代价" />
+              <marker date="1506078011448" expanded="true" signature="948:1069" ph="..." />
+              <marker date="1506078011448" expanded="true" signature="955:1027" ph="..." />
+              <marker date="1506078011448" expanded="true" signature="1034:1069" ph="..." />
+              <marker date="1506078011448" expanded="true" signature="1154:1187" ph="..." />
+              <marker date="1506078011448" expanded="true" signature="1232:1278" ph="{...}" />
+              <marker date="1506078011448" expanded="true" signature="1322:1678" ph="{...}" />
+              <marker date="1506078011448" expanded="true" signature="1426:1550" ph="{...}" />
+              <marker date="1506078011448" expanded="true" signature="1728:2095" ph="{...}" />
+              <marker date="1506078011448" expanded="true" signature="1847:1967" ph="{...}" />
+              <marker date="1506078011448" expanded="true" signature="2144:2496" ph="{...}" />
+              <marker date="1506078011448" expanded="true" signature="2288:2368" ph="{...}" />
+              <marker date="1506078011448" expanded="true" signature="2569:2619" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
