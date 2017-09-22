@@ -7,27 +7,4 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>JPA issues</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Portability issuesJava</id>
-          </State>
-          <State>
-            <id>SQL</id>
-          </State>
-        </expanded-state>
-      </profile-state>
-    </entry>
-  </component>
 </project>
