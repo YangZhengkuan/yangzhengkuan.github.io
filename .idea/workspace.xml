@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6438d574-8941-45b3-8846-0c374fbee045" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/love_you.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mine/艾索 - 晚安喵.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mine/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mine/love_you.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/love_you.html" afterPath="$PROJECT_DIR$/love_you.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,14 +68,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="love_you.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="love_you.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/love_you.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="362" column="34" lean-forward="true" selection-start-line="362" selection-start-column="34" selection-end-line="362" selection-end-column="34" />
+            <state relative-caret-position="154">
+              <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="love_you.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mine/love_you.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="524" column="25" lean-forward="false" selection-start-line="524" selection-start-column="25" selection-end-line="524" selection-end-column="25" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#20515#22184#0" expanded="false" />
+                <element signature="e#29954#31134#0" expanded="false" />
+                <element signature="e#31171#31303#0" expanded="false" />
+                <element signature="e#31343#31430#0" expanded="false" />
+                <element signature="e#31458#31594#0" expanded="false" />
+                <element signature="e#31626#31921#0" expanded="false" />
+                <element signature="e#31947#34569#0" expanded="false" />
+                <element signature="e#34606#38757#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mine/demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2596">
+              <caret line="893" column="38" lean-forward="true" selection-start-line="893" selection-start-column="38" selection-end-line="893" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,6 +122,19 @@
       <find>theme</find>
       <find>mp3</find>
       <find>TEXTArray</find>
+      <find>shape</find>
+      <find>|</find>
+      <find>countdown</find>
+      <find>ui</find>
+      <find>help</find>
+      <find>ui-input</find>
+      <find>canvas</find>
+      <find>input</find>
+      <find>performAction</find>
+      <find>change</find>
+      <find>firstAction</find>
+      <find>//</find>
+      <find>countDown</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -111,6 +154,10 @@
         <option value="$PROJECT_DIR$/_posts/2017-9-22-for-var.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/mine/love_you_input.html" />
+        <option value="$PROJECT_DIR$/mine/demo.html" />
+        <option value="$PROJECT_DIR$/love_you.html" />
+        <option value="$PROJECT_DIR$/mine/love_you.html" />
       </list>
     </option>
   </component>
@@ -190,6 +237,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangzhengkuan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangzhengkuan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -203,6 +264,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\yangzhengkuan.github.io\mine" />
       <recent name="E:\GitHub\yangzhengkuan.github.io\images" />
     </key>
   </component>
@@ -218,8 +280,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.love_you.html">
+  <component name="RunManager" selected="JavaScript Debug.love_you.html (1)">
     <configuration default="false" name="love_you.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/yangzhengkuan.github.io/love_you.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="demo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/yangzhengkuan.github.io/mine/demo.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="love_you.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/yangzhengkuan.github.io/mine/love_you.html">
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -776,12 +844,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html (1)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html" />
       </list>
     </recent_temporary>
   </component>
@@ -805,7 +877,7 @@
       <workItem from="1506150414657" duration="1532000" />
       <workItem from="1506652707017" duration="607000" />
       <workItem from="1507169983780" duration="49000" />
-      <workItem from="1507170052559" duration="2488000" />
+      <workItem from="1507170052559" duration="13264000" />
     </task>
     <task id="LOCAL-00001" summary="Test Single Html">
       <created>1507170142488</created>
@@ -818,7 +890,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17787000" />
+    <option name="totallyTimeSpent" value="28563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -854,7 +926,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -875,7 +947,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Test Single Html" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1250,10 +1324,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/love_you.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="362" column="34" lean-forward="true" selection-start-line="362" selection-start-column="34" selection-end-line="362" selection-end-column="34" />
+        <state relative-caret-position="154">
+          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mine/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="893" column="38" lean-forward="true" selection-start-line="893" selection-start-column="38" selection-end-line="893" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mine/love_you.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="524" column="25" lean-forward="false" selection-start-line="524" selection-start-column="25" selection-end-line="524" selection-end-column="25" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#20515#22184#0" expanded="false" />
+            <element signature="e#29954#31134#0" expanded="false" />
+            <element signature="e#31171#31303#0" expanded="false" />
+            <element signature="e#31343#31430#0" expanded="false" />
+            <element signature="e#31458#31594#0" expanded="false" />
+            <element signature="e#31626#31921#0" expanded="false" />
+            <element signature="e#31947#34569#0" expanded="false" />
+            <element signature="e#34606#38757#0" expanded="false" />
           </folding>
         </state>
       </provider>
