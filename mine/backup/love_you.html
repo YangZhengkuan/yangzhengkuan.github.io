@@ -516,28 +516,13 @@
             display: none;
         }
 
-        #my_audio {
-            display: block;
-            float: right;
-        }
-
     </style>
 
 </head>
 
 <body>
-<!--
-<audio id="my_audio" controls="controls" autoplay="autoplay" loop="true">
-    <source src="艾索 - 晚安喵.mp3" type="audio/mpeg"/>
-    这个浏览器不支持音频播放，换个试试，爱你哦！
-</audio>
- -->
-<div id="my_audio">
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
-            src="//music.163.com/outchain/player?type=2&id=28875230&auto=1&height=66"></iframe>
-</div>
-
 <canvas class="canvas"></canvas>
+
 <!--
 
 <div class="help">?</div>
@@ -757,9 +742,8 @@
             },
 
             adjustCanvas: function () {
-                var my_audio_height = document.getElementById("my_audio").clientHeight;
                 canvas.width = window.innerWidth;
-                canvas.height = window.innerHeight - my_audio_height;
+                canvas.height = window.innerHeight;
             },
 
             clearFrame: function () {
