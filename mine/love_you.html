@@ -637,6 +637,19 @@
 
 <script>
 
+    var my_delay;
+
+    var ua = navigator.userAgent;
+    var ipad = ua.match(/(iPad).*OS\s([\d_]+)/),
+        isIphone = !ipad && ua.match(/(iPhone\sOS)\s([\d_]+)/),
+        isAndroid = ua.match(/(Android)\s+([\d.]+)/),
+        isMobile = isIphone || isAndroid;
+    if (isMobile) {
+        my_delay = 5000;
+    } else {
+        my_delay = 3000;
+    }
+
     /*
 
      Shape Shifter
@@ -904,7 +917,7 @@
                     default:
                         S.Shape.switchShape(S.ShapeBuilder.letter(current[0] === cmd ? 'What?' : current));
                 }
-            }, 3000, sequence.length);
+            }, my_delay, sequence.length);
 
         }
 

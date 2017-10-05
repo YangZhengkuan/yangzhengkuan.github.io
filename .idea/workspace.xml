@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6438d574-8941-45b3-8846-0c374fbee045" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mine/backup/love_you.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mine/pc/love_you.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mine/pc/艾索 - 晚安喵.mp3" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mine/love_you.html" afterPath="$PROJECT_DIR$/mine/love_you.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,8 +67,8 @@
       <file leaf-file-name="love_you.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/love_you.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="176">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="17" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -96,8 +94,8 @@
       <file leaf-file-name="love_you.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mine/love_you.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="901" column="30" lean-forward="true" selection-start-line="901" selection-start-column="30" selection-end-line="901" selection-end-column="30" />
+            <state relative-caret-position="506">
+              <caret line="917" column="80" lean-forward="true" selection-start-line="917" selection-start-column="80" selection-end-line="917" selection-end-column="80" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -910,7 +908,7 @@
       <workItem from="1506150414657" duration="1532000" />
       <workItem from="1506652707017" duration="607000" />
       <workItem from="1507169983780" duration="49000" />
-      <workItem from="1507170052559" duration="16816000" />
+      <workItem from="1507170052559" duration="17744000" />
     </task>
     <task id="LOCAL-00001" summary="Test Single Html">
       <created>1507170142488</created>
@@ -923,7 +921,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32115000" />
+    <option name="totallyTimeSpent" value="33043000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1379,14 +1377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/love_you.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mine/pc/love_you.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
@@ -1395,10 +1385,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/love_you.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mine/love_you.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="901" column="30" lean-forward="true" selection-start-line="901" selection-start-column="30" selection-end-line="901" selection-end-column="30" />
+        <state relative-caret-position="506">
+          <caret line="917" column="80" lean-forward="true" selection-start-line="917" selection-start-column="80" selection-end-line="917" selection-end-column="80" />
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
           </folding>
