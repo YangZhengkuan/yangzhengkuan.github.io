@@ -516,16 +516,21 @@
             display: none;
         }
 
+        #my_audio {
+            display: block;
+            float: right;
+        }
+
     </style>
 
 </head>
 
 <body>
-<canvas class="canvas"></canvas>
-<audio controls="controls" autoplay="autoplay" loop="true">
+<audio id="my_audio" controls="controls" autoplay="autoplay" loop="true">
     <source src="艾索 - 晚安喵.mp3" type="audio/mpeg"/>
     这个浏览器不支持音频播放，换个试试，爱你哦！
 </audio>
+<canvas class="canvas"></canvas>
 <!--
 
 <div class="help">?</div>
@@ -745,8 +750,9 @@
             },
 
             adjustCanvas: function () {
+                var my_audio_height = document.getElementById("my_audio").clientHeight;
                 canvas.width = window.innerWidth;
-                canvas.height = window.innerHeight;
+                canvas.height = window.innerHeight - my_audio_height;
             },
 
             clearFrame: function () {

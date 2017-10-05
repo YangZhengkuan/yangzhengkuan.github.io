@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6438d574-8941-45b3-8846-0c374fbee045" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mine/pc/艾索 - 晚安喵.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mine/pc/love_you.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/love_you.html" afterPath="$PROJECT_DIR$/love_you.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mine/love_you.html" afterPath="$PROJECT_DIR$/mine/love_you.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mine/艾索 - 晚安喵.mp3" afterPath="$PROJECT_DIR$/mine/pc/艾索 - 晚安喵.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mine/pc/love_you.html" afterPath="$PROJECT_DIR$/mine/pc/love_you.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,11 +78,9 @@
       <file leaf-file-name="love_you.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mine/pc/love_you.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="526" column="18" lean-forward="true" selection-start-line="526" selection-start-column="18" selection-end-line="526" selection-end-column="18" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="458">
+              <caret line="754" column="69" lean-forward="true" selection-start-line="754" selection-start-column="69" selection-end-line="754" selection-end-column="69" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,11 +88,10 @@
       <file leaf-file-name="love_you.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mine/love_you.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="520" column="7" lean-forward="true" selection-start-line="520" selection-start-column="7" selection-end-line="520" selection-end-column="7" />
+            <state relative-caret-position="262">
+              <caret line="742" column="0" lean-forward="true" selection-start-line="742" selection-start-column="0" selection-end-line="742" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#20369#22038#0" expanded="false" />
                 <element signature="e#29808#30988#0" expanded="false" />
                 <element signature="e#31025#31157#0" expanded="false" />
                 <element signature="e#31197#31284#0" expanded="false" />
@@ -113,8 +107,8 @@
       <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mine/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2596">
-              <caret line="893" column="38" lean-forward="true" selection-start-line="893" selection-start-column="38" selection-end-line="893" selection-end-column="38" />
+            <state relative-caret-position="284">
+              <caret line="688" column="51" lean-forward="true" selection-start-line="687" selection-start-column="16" selection-end-line="688" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -147,6 +141,7 @@
       <find>firstAction</find>
       <find>//</find>
       <find>countDown</find>
+      <find>width</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,9 +162,10 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/mine/love_you_input.html" />
-        <option value="$PROJECT_DIR$/mine/demo.html" />
         <option value="$PROJECT_DIR$/love_you.html" />
+        <option value="$PROJECT_DIR$/mine/demo.html" />
         <option value="$PROJECT_DIR$/mine/love_you.html" />
+        <option value="$PROJECT_DIR$/mine/pc/love_you.html" />
       </list>
     </option>
   </component>
@@ -319,6 +315,9 @@
       <method />
     </configuration>
     <configuration default="false" name="love_you.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/yangzhengkuan.github.io/mine/love_you.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="love_you.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/yangzhengkuan.github.io/mine/pc/love_you.html">
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -875,16 +874,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html (2)" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html (2)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.love_you.html" />
       </list>
     </recent_temporary>
   </component>
@@ -908,7 +909,7 @@
       <workItem from="1506150414657" duration="1532000" />
       <workItem from="1506652707017" duration="607000" />
       <workItem from="1507169983780" duration="49000" />
-      <workItem from="1507170052559" duration="13940000" />
+      <workItem from="1507170052559" duration="14788000" />
     </task>
     <task id="LOCAL-00001" summary="Test Single Html">
       <created>1507170142488</created>
@@ -921,7 +922,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29239000" />
+    <option name="totallyTimeSpent" value="30087000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1353,24 +1354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mine/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2596">
-          <caret line="893" column="38" lean-forward="true" selection-start-line="893" selection-start-column="38" selection-end-line="893" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mine/pc/love_you.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="526" column="18" lean-forward="true" selection-start-line="526" selection-start-column="18" selection-end-line="526" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/love_you.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -1379,13 +1362,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mine/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="688" column="51" lean-forward="true" selection-start-line="687" selection-start-column="16" selection-end-line="688" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mine/pc/love_you.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="754" column="69" lean-forward="true" selection-start-line="754" selection-start-column="69" selection-end-line="754" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mine/love_you.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="520" column="7" lean-forward="true" selection-start-line="520" selection-start-column="7" selection-end-line="520" selection-end-column="7" />
+        <state relative-caret-position="262">
+          <caret line="742" column="0" lean-forward="true" selection-start-line="742" selection-start-column="0" selection-end-line="742" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#20369#22038#0" expanded="false" />
             <element signature="e#29808#30988#0" expanded="false" />
             <element signature="e#31025#31157#0" expanded="false" />
             <element signature="e#31197#31284#0" expanded="false" />
