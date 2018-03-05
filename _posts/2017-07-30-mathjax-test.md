@@ -2,7 +2,6 @@
 layout: post
 title: 公式测试
 date: 2017-07-30
-categories: 测试
 tags: 测试
 ---
 
