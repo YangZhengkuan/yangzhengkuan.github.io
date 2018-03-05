@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f555fe6-911d-4000-81d2-69d0143a3147" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/js/index.js" afterPath="$PROJECT_DIR$/dev/js/index.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="17" />
+              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -138,8 +135,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/dev/js/index.js" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -353,12 +350,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520224572068</updated>
-      <workItem from="1520224574222" duration="1013000" />
+      <workItem from="1520224574222" duration="1144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1013000" />
+    <option name="totallyTimeSpent" value="1144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -513,7 +510,7 @@
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="17" />
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="23" />
           <folding />
         </state>
       </provider>
