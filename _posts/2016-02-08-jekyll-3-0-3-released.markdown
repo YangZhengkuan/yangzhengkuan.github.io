@@ -7,10 +7,9 @@ version: 3.0.3
 categories: [release]
 ---
 
-[GitHub Pages upgraded to Jekyll 3.0.2][1] last week. With a testbed of
-over a million sites, this really put Jekyll 3 through the wringer. This
-release addresses a handful of bugs that were surfaced as a result. The
-fixes:
+[GitHub Pages upgraded to Jekyll 3.0.2][1] last week and there has been a
+joyous reception so far! This release is to address some bugs that affected
+some users during the cut-over. The fixes include:
 
 * Fix problem where outputting to a folder would have two extensions
 * Handle tildes (`~`) in filenames properly
