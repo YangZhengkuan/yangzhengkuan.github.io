@@ -279,12 +279,14 @@
         if (head.x >= 30 || head.y >= 30 || head.x < 0 || head.y < 0) {
             alert("很遗憾，您输了！" + "\n" + "您的得分为：" + "\n" + score);
             window.location.reload();
+            return;
         }
         //判断是否碰到自己
         for (var i = 0; i < snake.length - 2; i++) {
             if (head.x == snake[i].x && head.y == snake[i].y) {
                 alert("很遗憾，您输了！" + "\n" + "您的得分为：" + "\n" + score);
                 window.location.reload();
+                return;
             }
         }
     }
