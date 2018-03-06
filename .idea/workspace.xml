@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4998cfbb-eff5-4dbd-b756-87931b96ebd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-05-06-bootstrap-img-rotate.md" afterPath="$PROJECT_DIR$/_posts/2015-05-06-bootstrap-img-rotate.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/2015-05-06-bootstrap-img-rotate.html" afterPath="$PROJECT_DIR$/html/2015-05-06-bootstrap-img-rotate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post-head.html" afterPath="$PROJECT_DIR$/_includes/post-head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-05-12-js-url.md" afterPath="$PROJECT_DIR$/_posts/2015-05-12-js-url.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,9 +31,14 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
-              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="-312">
+              <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <marker date="1520306188092" expanded="true" signature="64803:64845" ph="..." />
+                <marker date="1520306188092" expanded="true" signature="64803:64863" ph="..." />
+                <marker date="1520306188092" expanded="true" signature="64803:64876" ph="..." />
+                <marker date="1520306188092" expanded="true" signature="64803:64891" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,7 +48,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="384">
-                <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+                <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding>
                   <marker date="1520301408585" expanded="true" signature="12:16" ph="post" />
                   <marker date="1520301408585" expanded="true" signature="24:33" ph="相册显示-图片旋转" />
@@ -79,11 +82,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-05-06-bootstrap-img-rotate.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-head.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/post-head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-05-21-game-tcs.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-05-21-game-tcs.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-142">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-05-12-js-url.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-05-12-js-url.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="528">
+                <caret line="82" column="7" lean-forward="false" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+                <folding>
+                  <marker date="1520306262110" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520306262110" expanded="true" signature="24:33" ph="网页跳转的几种方式" />
+                  <marker date="1520306262110" expanded="true" signature="40:50" ph="2015-05-12" />
+                  <marker date="1520306262110" expanded="true" signature="57:67" ph="JavaScript" />
+                  <marker date="1520306262110" expanded="true" signature="252:330" ph="..." />
+                  <marker date="1520306262110" expanded="true" signature="357:416" ph="..." />
+                  <marker date="1520306262110" expanded="true" signature="478:534" ph="..." />
+                  <marker date="1520306262110" expanded="true" signature="729:771" ph="..." />
+                  <marker date="1520306262110" expanded="true" signature="838:877" ph="..." />
+                  <marker date="1520306262110" expanded="true" signature="944:1002" ph="..." />
+                  <marker date="1520306262110" expanded="true" signature="1302:1631" ph="..." />
+                  <marker date="1520306262110" expanded="true" signature="1337:1623" ph="..." />
+                  <marker date="1520306262110" expanded="true" signature="1372:1426" ph="{...}" />
+                  <marker date="1520306262110" expanded="true" signature="1463:1524" ph="{...}" />
+                  <marker date="1520306262110" expanded="true" signature="1561:1610" ph="{...}" />
+                  <marker date="1520306262110" expanded="true" signature="1639:1841" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-05-06-bootstrap-img-rotate.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/2015-05-06-bootstrap-img-rotate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,13 +200,14 @@
         <option value="$PROJECT_DIR$/_includes/top.html" />
         <option value="$PROJECT_DIR$/_posts/2017-07-30-mathjax-test.md" />
         <option value="$PROJECT_DIR$/_posts/2015-05-21-game-tcs.md" />
-        <option value="$PROJECT_DIR$/_posts/2015-05-12-js-url.md" />
         <option value="$PROJECT_DIR$/html/2015-05-21-game-tcs.html" />
         <option value="$PROJECT_DIR$/_posts/2017-09-22-for-var.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-25-ball-function.md" />
         <option value="$PROJECT_DIR$/html/2015-05-06-bootstrap-img-rotate.html" />
         <option value="$PROJECT_DIR$/_posts/2015-05-06-bootstrap-img-rotate.md" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/_posts/2015-05-12-js-url.md" />
+        <option value="$PROJECT_DIR$/_includes/post-head.html" />
       </list>
     </option>
   </component>
@@ -161,8 +228,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="2008" />
+    <option name="y" value="98" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -222,6 +289,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangzhengkuan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangzhengkuan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangzhengkuan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yangzhengkuan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -839,15 +934,15 @@
       <workItem from="1520240451384" duration="8308000" />
       <workItem from="1520254544156" duration="3836000" />
       <workItem from="1520300374079" duration="878000" />
-      <workItem from="1520301772122" duration="74000" />
+      <workItem from="1520301772122" duration="1245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13096000" />
+    <option name="totallyTimeSpent" value="14267000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="2008" y="98" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -896,7 +991,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-new-theme-h2o.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-05-21-game-tcs.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-ball-function.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -974,13 +1068,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tags.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/top.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1056,7 +1143,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-new-theme-h2o.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2015-05-12-js-url.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-hello-jekyll.md" />
     <entry file="file://$PROJECT_DIR$/assets/img/ball-autopilot.gif">
       <provider selected="true" editor-type-id="images">
@@ -1077,7 +1163,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-05-21-game-tcs.md" />
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1096,8 +1181,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="-312">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <marker date="1520306188092" expanded="true" signature="64803:64845" ph="..." />
+            <marker date="1520306188092" expanded="true" signature="64803:64863" ph="..." />
+            <marker date="1520306188092" expanded="true" signature="64803:64876" ph="..." />
+            <marker date="1520306188092" expanded="true" signature="64803:64891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/2015-05-06-bootstrap-img-rotate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1106,7 +1204,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="384">
-            <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding>
               <marker date="1520301408585" expanded="true" signature="12:16" ph="post" />
               <marker date="1520301408585" expanded="true" signature="24:33" ph="相册显示-图片旋转" />
@@ -1139,10 +1237,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/2015-05-06-bootstrap-img-rotate.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-05-21-game-tcs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-142">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-05-12-js-url.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="528">
+            <caret line="82" column="7" lean-forward="false" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+            <folding>
+              <marker date="1520306262110" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520306262110" expanded="true" signature="24:33" ph="网页跳转的几种方式" />
+              <marker date="1520306262110" expanded="true" signature="40:50" ph="2015-05-12" />
+              <marker date="1520306262110" expanded="true" signature="57:67" ph="JavaScript" />
+              <marker date="1520306262110" expanded="true" signature="252:330" ph="..." />
+              <marker date="1520306262110" expanded="true" signature="357:416" ph="..." />
+              <marker date="1520306262110" expanded="true" signature="478:534" ph="..." />
+              <marker date="1520306262110" expanded="true" signature="729:771" ph="..." />
+              <marker date="1520306262110" expanded="true" signature="838:877" ph="..." />
+              <marker date="1520306262110" expanded="true" signature="944:1002" ph="..." />
+              <marker date="1520306262110" expanded="true" signature="1302:1631" ph="..." />
+              <marker date="1520306262110" expanded="true" signature="1337:1623" ph="..." />
+              <marker date="1520306262110" expanded="true" signature="1372:1426" ph="{...}" />
+              <marker date="1520306262110" expanded="true" signature="1463:1524" ph="{...}" />
+              <marker date="1520306262110" expanded="true" signature="1561:1610" ph="{...}" />
+              <marker date="1520306262110" expanded="true" signature="1639:1841" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post-head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
           <folding />
         </state>
       </provider>
