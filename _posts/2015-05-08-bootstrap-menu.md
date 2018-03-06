@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Web页面邮件菜单(Bootstrap风格)
+title: Web页面右键菜单(Bootstrap风格)
 tags: Bootstrap JavaScript
 ---
 
-Web页面邮件菜单(Bootstrap风格)
+Web页面右键菜单(Bootstrap风格)。
 
 [演示地址](https://yangzhengkuan.github.io/html/2015-05-07-bootstrap-menu.html)
 
@@ -27,8 +27,8 @@ Web页面邮件菜单(Bootstrap风格)
             display: none;
         }
     </style>
-    <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
-    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <link href="https://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
 </head>
 <body>
 <div class="col-md-2" id="menu">

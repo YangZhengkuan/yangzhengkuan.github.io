@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 相册显示-图片旋转
+title: 相册显示——图片旋转
 tags: Bootstrap html5 css
 ---
 
