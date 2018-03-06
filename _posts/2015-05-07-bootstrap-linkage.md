@@ -1,0 +1,142 @@
+---
+layout: post
+title: 异步多级联动——省、市、区
+tags: Bootstrap JavaScript
+---
+
+异步多级联动——省、市、区。
+
+PS: 实际应用中应使用Ajax请求相应的数据，此处使用预先定义的数组进行模拟。
+
+[演示地址](https://yangzhengkuan.github.io/html/2015-05-07-bootstrap-linkage.html)
+
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>异步多级联动</title>
+    <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <style type="text/css">
+        * {
+            font-family: "微软雅黑";
+        }
+    </style>
+</head>
+
+<body>
+
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
+    <div class="navbar-header" style="padding-left:60px;">
+        <a class="navbar-brand" href="#">异步多级联动</a>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>异步多级联动
+            <small>——省、市、区</small>
+        </h1>
+        <form role="form row" style="margin-top:30px;">
+            <div class="foup col-md-3">
+                <select class="form-control" id="province" onchange="city_change(this)">
+                    <option>--请选择省份--</option>
+                </select>
+            </div>
+            <div class="form-group col-md-3">
+                <select class="form-control" id="city" onchange="area_change(this)">
+                    <option>--请选择城市--</option>
+                </select>
+            </div>
+            <div class="form-group col-md-3">
+                <select class="form-control" id="area">
+                    <option>--请选择地区--</option>
+                </select>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    var datas = {
+        province: [{"id": 1001, "name": "陕西省"}, {"id": 1002, "name": "河北省"}],
+        city: {
+            "1001": "100101#西安市,100102#AA市,100103#BB市",
+            "1002": "100201#衡水市,100202#CC市,100203#DD市"
+        },
+        area: {
+            "100101": "10010101#a1区,10010102#b1区,10010103#c1区",
+            "100102": "10010201#a2区,10010202#b2区,10010203#c2区",
+            "100103": "10010301#a3区,10010302#b3区,10010303#c3区",
+            "100201": "10020101#a4区,10020102#b4区,10020103#c4区",
+            "100202": "10020201#a5区,10020202#b5区,10020203#c5区",
+            "100203": "10020301#a6区,10020302#b6区,10020303#c6区",
+        }
+    };
+
+    $(function () {
+        init_province();
+    });
+
+    //初始化省份
+    function init_province() {
+        var provinceArr = datas.province;
+        for (var i = 0; i < provinceArr.length; i++) {
+            $("#province").append("<option value='" + provinceArr[i].id + "'>" + provinceArr[i].name + "</option>");
+        }
+    }
+
+    //城市联动变化
+    function city_change(obj) {
+        //获取选中省份
+        var value = obj.value;
+        //根据省份id找到对应的数据
+        var cityData = datas["city"][value];
+        //解析数据
+        var citys = cityData.split(",");
+        //在append之前清空上一次数据
+        $("#city").empty();
+        //添加默认项
+        $("#city").append("<option>--请选择城市--</option>");
+        //添加该省城市名
+        for (var i = 0; i < citys.length; i++) {
+            var city = citys[i].split("#");
+            var cityID = city[0];
+            var cityName = city[1];
+            $("#city").append("<option value='" + cityID + "'>" + cityName + "</option>");
+        }
+    }
+
+    //地区联动变化
+    function area_change(obj) {
+        //获取选中城市
+        var value = obj.value;
+        //根据城市id找到对应的数据
+        var areaData = datas["area"][value];
+        //解析数据
+        var areas = areaData.split(",");
+        //在append之前清空上一次数据
+        $("#area").empty();
+        //添加默认项
+        $("#area").append("<option>--请选择地区--</option>");
+        //添加该城市地区名
+        for (var i = 0; i < areas.length; i++) {
+            var area = areas[i].split("#");
+            var areaID = area[0];
+            var areaName = area[1];
+            $("#area").append("<option value='" + areaID + "'>" + areaName + "</option>");
+        }
+    }
+
+</script>
+
+</body>
+</html>
+```
+
