@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4998cfbb-eff5-4dbd-b756-87931b96ebd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-04-10-tools.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-06-15-d3-bar-chart.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-06-20-d3-tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/d3.v3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/d3.v4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/2017-06-20-d3-tree1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/2017-06-20-d3-tree2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/2017-06-20-d3-tree3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/2017-06-15-d3-bar-chart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/2017-06-20-d3-tree1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/2017-06-20-d3-tree2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/2017-06-20-d3-tree3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-09-23-hadoop-install.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-09-24-hadoop-cmd.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-20-d3-tree.md" afterPath="$PROJECT_DIR$/_posts/2017-06-20-d3-tree.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,9 +31,60 @@
       <file leaf-file-name="2017-06-20-d3-tree3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/2017-06-20-d3-tree3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+            <state relative-caret-position="2304">
+              <caret line="210" column="0" lean-forward="true" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-05-29-emment.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-emment.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+                <folding>
+                  <marker date="1520391138916" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520391138916" expanded="true" signature="24:34" ph="常用Emment语法" />
+                  <marker date="1520391138916" expanded="true" signature="41:50" ph="前端 Emment" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-09-23-hadoop-install.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-09-23-hadoop-install.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="408">
+                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <folding>
+                  <marker date="1520391667796" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520391667796" expanded="true" signature="24:38" ph="Hadoop的伪分布安装步骤" />
+                  <marker date="1520391667796" expanded="true" signature="45:51" ph="Hadoop" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-09-24-hadoop-cmd.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-09-24-hadoop-cmd.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1224">
+                <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+                <folding>
+                  <marker date="1520391851168" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520391851168" expanded="true" signature="24:34" ph="HDFS常用操作命令" />
+                  <marker date="1520391851168" expanded="true" signature="41:47" ph="Hadoop" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -52,7 +94,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="192">
-                <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+                <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
                 <folding>
                   <marker date="1520388310966" expanded="true" signature="12:16" ph="post" />
                   <marker date="1520388310966" expanded="true" signature="24:33" ph="小影志、小影工具箱" />
@@ -64,16 +106,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-06-20-d3-tree.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-06-20-d3-tree.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-06-20-d3-tree.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="144">
-                <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
                 <folding>
-                  <marker date="1520389913432" expanded="true" signature="12:16" ph="post" />
-                  <marker date="1520389913432" expanded="true" signature="24:45" ph="Create A …ee With D3" />
-                  <marker date="1520389913432" expanded="true" signature="52:65" ph="JavaScript D3" />
+                  <marker date="1520390662132" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520390662132" expanded="true" signature="24:45" ph="Create A …ee With D3" />
+                  <marker date="1520390662132" expanded="true" signature="52:65" ph="JavaScript D3" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -130,36 +172,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-06-20-d3-tree1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/2017-06-20-d3-tree1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-06-20-d3-tree1.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/2017-06-20-d3-tree1.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-06-15-d3-bar-chart.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/2017-06-15-d3-bar-chart.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -176,6 +188,7 @@
       <find>贺欢</find>
       <find>http:</find>
       <find>nig</find>
+      <find>translate</find>
     </findStrings>
     <replaceStrings>
       <replace>```</replace>
@@ -223,6 +236,9 @@
         <option value="$PROJECT_DIR$/html/2017-06-20-d3-tree2.html" />
         <option value="$PROJECT_DIR$/html/2017-06-20-d3-tree3.html" />
         <option value="$PROJECT_DIR$/_posts/2017-06-20-d3-tree.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-09-23-hadoop-install.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-09-24-hadoop-cmd.md" />
       </list>
     </option>
   </component>
@@ -968,12 +984,12 @@
       <workItem from="1520254544156" duration="3836000" />
       <workItem from="1520300374079" duration="878000" />
       <workItem from="1520301772122" duration="1841000" />
-      <workItem from="1520347093733" duration="5873000" />
+      <workItem from="1520347093733" duration="7809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20736000" />
+    <option name="totallyTimeSpent" value="22672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1025,13 +1041,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/hero.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/top.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1119,10 +1128,10 @@
         <state relative-caret-position="432">
           <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
-            <marker date="1520389613878" expanded="true" signature="86113:86130" ph="..." />
-            <marker date="1520389613878" expanded="true" signature="86113:86148" ph="..." />
-            <marker date="1520389613878" expanded="true" signature="86113:86161" ph="..." />
-            <marker date="1520389613878" expanded="true" signature="86113:86176" ph="..." />
+            <marker date="1520391769178" expanded="true" signature="90553:90570" ph="..." />
+            <marker date="1520391769178" expanded="true" signature="90553:90588" ph="..." />
+            <marker date="1520391769178" expanded="true" signature="90553:90601" ph="..." />
+            <marker date="1520391769178" expanded="true" signature="90553:90616" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1487,7 +1496,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="192">
-            <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             <folding>
               <marker date="1520388310966" expanded="true" signature="12:16" ph="post" />
               <marker date="1520388310966" expanded="true" signature="24:33" ph="小影志、小影工具箱" />
@@ -1527,8 +1536,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/2017-06-20-d3-tree3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        <state relative-caret-position="2304">
+          <caret line="210" column="0" lean-forward="true" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1536,12 +1545,57 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-20-d3-tree.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
             <folding>
-              <marker date="1520389913432" expanded="true" signature="12:16" ph="post" />
-              <marker date="1520389913432" expanded="true" signature="24:45" ph="Create A …ee With D3" />
-              <marker date="1520389913432" expanded="true" signature="52:65" ph="JavaScript D3" />
+              <marker date="1520390662132" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520390662132" expanded="true" signature="24:45" ph="Create A …ee With D3" />
+              <marker date="1520390662132" expanded="true" signature="52:65" ph="JavaScript D3" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-emment.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+            <folding>
+              <marker date="1520391138916" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520391138916" expanded="true" signature="24:34" ph="常用Emment语法" />
+              <marker date="1520391138916" expanded="true" signature="41:50" ph="前端 Emment" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-09-24-hadoop-cmd.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1224">
+            <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+            <folding>
+              <marker date="1520391851168" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520391851168" expanded="true" signature="24:34" ph="HDFS常用操作命令" />
+              <marker date="1520391851168" expanded="true" signature="41:47" ph="Hadoop" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-09-23-hadoop-install.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding>
+              <marker date="1520391667796" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520391667796" expanded="true" signature="24:38" ph="Hadoop的伪分布安装步骤" />
+              <marker date="1520391667796" expanded="true" signature="45:51" ph="Hadoop" />
             </folding>
           </first_editor>
           <second_editor />
