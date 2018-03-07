@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4998cfbb-eff5-4dbd-b756-87931b96ebd9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-05-28-markdown.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-29-emment.md" afterPath="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +14,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3648">
-              <caret line="152" column="45" lean-forward="true" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,16 +54,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-05-29-emment.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-05-29-emment.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-emment.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+              <first_editor relative-caret-position="1896">
+                <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
                 <folding>
-                  <marker date="1520393158567" expanded="true" signature="12:16" ph="post" />
-                  <marker date="1520393158567" expanded="true" signature="24:34" ph="常用Emment语法" />
-                  <marker date="1520393158567" expanded="true" signature="41:50" ph="前端 Emment" />
+                  <marker date="1520393361090" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520393361090" expanded="true" signature="24:34" ph="常用Emment语法" />
+                  <marker date="1520393361090" expanded="true" signature="41:50" ph="前端 Emment" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -83,12 +71,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-05-28-markdown.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-04-18-new-theme-h2o.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-new-theme-h2o.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1520301743822" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520301743822" expanded="true" signature="24:46" ph="H2O theme for Jekyll" />
+                  <marker date="1520301743822" expanded="true" signature="57:74" ph="或许是最漂亮的Jekyll主题" />
+                  <marker date="1520301743822" expanded="true" signature="81:91" ph="2017-04-18" />
+                  <marker date="1520301743822" expanded="true" signature="104:106" ph="技术" />
+                  <marker date="1520301743822" expanded="true" signature="114:179" ph="http://on…tcover.jpg" />
+                  <marker date="1520301743822" expanded="true" signature="186:200" ph="jekyll 前端开发 设计" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-05-28-markdown.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-05-28-markdown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2296">
-                <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+              <first_editor relative-caret-position="2976">
+                <caret line="124" column="34" lean-forward="true" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
                 <folding>
                   <marker date="1520393218272" expanded="true" signature="12:16" ph="post" />
                   <marker date="1520393218272" expanded="true" signature="24:36" ph="常用Markdown语法" />
@@ -199,8 +208,8 @@
         <option value="$PROJECT_DIR$/_posts/2015-05-14-hibernate-settings.md" />
         <option value="$PROJECT_DIR$/_posts/2015-09-23-hadoop-install.md" />
         <option value="$PROJECT_DIR$/_includes/post-head.html" />
-        <option value="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-28-markdown.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
       </list>
     </option>
   </component>
@@ -974,12 +983,12 @@
       <workItem from="1520254544156" duration="3836000" />
       <workItem from="1520300374079" duration="878000" />
       <workItem from="1520301772122" duration="1841000" />
-      <workItem from="1520347093733" duration="9175000" />
+      <workItem from="1520347093733" duration="9971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24038000" />
+    <option name="totallyTimeSpent" value="24834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1064,10 +1073,10 @@
         <state relative-caret-position="432">
           <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
-            <marker date="1520393158675" expanded="true" signature="94014:94031" ph="..." />
-            <marker date="1520393158675" expanded="true" signature="94014:94049" ph="..." />
-            <marker date="1520393158675" expanded="true" signature="94014:94062" ph="..." />
-            <marker date="1520393158675" expanded="true" signature="94014:94077" ph="..." />
+            <marker date="1520394215263" expanded="true" signature="95109:95126" ph="..." />
+            <marker date="1520394215263" expanded="true" signature="95109:95144" ph="..." />
+            <marker date="1520394215263" expanded="true" signature="95109:95157" ph="..." />
+            <marker date="1520394215263" expanded="true" signature="95109:95172" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1394,25 +1403,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-new-theme-h2o.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1520301743822" expanded="true" signature="12:16" ph="post" />
-              <marker date="1520301743822" expanded="true" signature="24:46" ph="H2O theme for Jekyll" />
-              <marker date="1520301743822" expanded="true" signature="57:74" ph="或许是最漂亮的Jekyll主题" />
-              <marker date="1520301743822" expanded="true" signature="81:91" ph="2017-04-18" />
-              <marker date="1520301743822" expanded="true" signature="104:106" ph="技术" />
-              <marker date="1520301743822" expanded="true" signature="114:179" ph="http://on…tcover.jpg" />
-              <marker date="1520301743822" expanded="true" signature="186:200" ph="jekyll 前端开发 设计" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-15-d3-bar-chart.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1655,32 +1645,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-emment.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
-            <folding>
-              <marker date="1520393158567" expanded="true" signature="12:16" ph="post" />
-              <marker date="1520393158567" expanded="true" signature="24:34" ph="常用Emment语法" />
-              <marker date="1520393158567" expanded="true" signature="41:50" ph="前端 Emment" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-05-28-markdown.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2296">
-            <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <first_editor relative-caret-position="2976">
+            <caret line="124" column="34" lean-forward="true" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
             <folding>
               <marker date="1520393218272" expanded="true" signature="12:16" ph="post" />
               <marker date="1520393218272" expanded="true" signature="24:36" ph="常用Markdown语法" />
               <marker date="1520393218272" expanded="true" signature="43:51" ph="Markdown" />
               <marker date="1520393218272" expanded="true" signature="945:979" ph="..." />
               <marker date="1520393218272" expanded="true" signature="1428:1471" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-18-new-theme-h2o.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1520301743822" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520301743822" expanded="true" signature="24:46" ph="H2O theme for Jekyll" />
+              <marker date="1520301743822" expanded="true" signature="57:74" ph="或许是最漂亮的Jekyll主题" />
+              <marker date="1520301743822" expanded="true" signature="81:91" ph="2017-04-18" />
+              <marker date="1520301743822" expanded="true" signature="104:106" ph="技术" />
+              <marker date="1520301743822" expanded="true" signature="114:179" ph="http://on…tcover.jpg" />
+              <marker date="1520301743822" expanded="true" signature="186:200" ph="jekyll 前端开发 设计" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-emment.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1896">
+            <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+            <folding>
+              <marker date="1520393361090" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520393361090" expanded="true" signature="24:34" ph="常用Emment语法" />
+              <marker date="1520393361090" expanded="true" signature="41:50" ph="前端 Emment" />
             </folding>
           </first_editor>
           <second_editor />
