@@ -4,6 +4,8 @@ title: Hibernate常用属性配置
 tags: Hibernate
 ---
 
+## 不同数据库、连接池使用Hibernate时的常用配置
+
 ```shell
 ######################
 ### Query Language ###

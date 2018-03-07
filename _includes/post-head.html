@@ -2,9 +2,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="author"  content="{{ site.author }}">
+    <meta name="author" content="{{ site.author }}">
     <meta name="description" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="keywords"  content="{% if page.tags.size > 0 %}{% for tag in page.tags  %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}">
+    <meta name="keywords" content="{% if page.tags.size > 0 %}{% for tag in page.tags  %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}">
     <!-- Open Graph -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:type" content="website">
@@ -19,18 +19,23 @@
     <link rel="stylesheet" href="/assets/css/app.min.css">
     <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
-        div>.markdown-body .highlight {
+        div > .markdown-body .highlight {
             overflow-x: auto;
             overflow-y: visible;
         }
-        pre>.markdown-body .highlight {
+
+        pre > .markdown-body .highlight {
             overflow: visible;
+        }
+
+        .markdown-body pre {
+            font-family: Merriweather-Light, -apple-system, Verdana, "PingFang SC", "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
         }
     </style>
 
     <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-	{% if site.mathjax %}
-	{% include mathjax.html %}
-	{% endif %}
+    {% if site.mathjax %}
+    {% include mathjax.html %}
+    {% endif %}
     {% include anchor.html %}
 </head>
