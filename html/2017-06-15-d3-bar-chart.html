@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>A Bar Chart</title>
+</head>
+<body>
+
+<div class="container">
+    <h2>Create A Bar Chart With D3</h2>
+    <div id="bar-chart"></div>
+</div>
+
+<script src="../assets/js/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+    var chartdata = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120,
+        135, 150, 165, 180, 200, 220, 240, 270, 300, 330, 370, 410];
+
+    var margin = {top: 30, right: 10, bottom: 30, left: 50};
+
+    var height = 400 - margin.top - margin.bottom,
+        width = 720 - margin.left - margin.right;
+
+    var barWidth = 40;
+
+    var yScale = d3.scale.linear()
+        .domain([0, d3.max(chartdata)])
+        .range([0, height]);
+
+    var xScale = d3.scale.ordinal()
+    // 注意：此处和 yScale 不同
+        .domain(d3.range(0, chartdata.length))
+        .rangeBands([0, width]);
+
+    var colors = d3.scale.linear()
+        .domain([0, chartdata.length * .33, chartdata.length * .66, chartdata.length])
+        .range(['#d6e9c6', '#bce8f1', '#faebcc', '#ebccd1']);
+
+    var rects = d3.select("#bar-chart").append("svg")
+        .attr('width', width + margin.left + margin.right)
+        .attr('height', height + margin.top + margin.bottom)
+        .style('background', '#dff0d8')
+        .append('g')
+        .attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')')
+        .selectAll('rect')
+        .data(chartdata)
+        .enter().append('rect')
+        // 样式较多时，可以按照如下方式写，用大括号括起来
+        .style({
+            'fill': function (d, i) {
+                return colors(i)
+            }, 'stroke': '#31708f', 'stroke-width': '1'
+        })
+        .attr('width', xScale.rangeBand())
+        .attr('height', 0)
+        .attr('x', function (d, i) {
+            return xScale(i);
+        })
+        .attr('y', height)
+        .on('mouseover', function (d) {
+            dynamicColor = this.style.fill;
+            d3.select(this)
+                .style('fill', '#31708f')
+        })
+        .on('mouseout', function (d) {
+            d3.select(this)
+                .style('fill', dynamicColor)
+        });
+
+    rects.transition()
+        .attr('height', function (d) {
+            return yScale(d);
+        })
+        .attr('y', function (d) {
+            return height - yScale(d);
+        })
+        .delay(function (data, i) {
+            return i * 20;
+        })
+        .duration(2000)
+        .ease('elastic');
+
+    var verticalGuideScale = d3.scale.linear()
+        .domain([0, d3.max(chartdata)])
+        .range([height, 0]);
+
+    var vAxis = d3.svg.axis()
+        .scale(verticalGuideScale)
+        .orient('left')
+        .ticks(10);
+
+    var verticalGuide = d3.select('svg').append('g');
+    vAxis(verticalGuide);
+    verticalGuide.attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+    verticalGuide.selectAll('path')
+        .style({fill: 'none', stroke: '#3c763d'});
+    verticalGuide.selectAll('line')
+        .style({stroke: '#3c763d'});
+
+    var hAxis = d3.svg.axis()
+        .scale(xScale)
+        .orient('bottom')
+        .ticks(chartdata.size);
+
+    var horizontalGuide = d3.select('svg').append('g');
+    hAxis(horizontalGuide);
+    horizontalGuide.attr('transform', 'translate(' + margin.left + ',' + (height + margin.top) + ')');
+    horizontalGuide.selectAll('path')
+        .style({fill: 'none', stroke: "#3c763d"})
+    horizontalGuide.selectAll('line')
+        .style({stroke: "#3c763d"});
+
+</script>
+</body>
+</html>

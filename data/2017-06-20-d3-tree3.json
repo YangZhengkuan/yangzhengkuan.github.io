@@ -1,0 +1,131 @@
+{
+  "nsrdzdah": 610008000317704091,
+  "nsrmc": "西安星斗云电子技术有限公司",
+  "jyje": null,
+  "jybl": null,
+  "year": 2014,
+  "direction": null,
+  "children": [
+    {
+      "nsrdzdah": 610012003923266253,
+      "nsrmc": "西安银池商贸有限公司",
+      "jyje": 15598.29,
+      "jybl": 100.0,
+      "year": 2014,
+      "direction": 1,
+      "children": [
+        {
+          "nsrdzdah": 610012003923266253,
+          "nsrmc": "西安银池商贸有限公司",
+          "jyje": 15598.29,
+          "jybl": 100.0,
+          "year": 2014,
+          "direction": 1,
+          "children": null
+        },
+        {
+          "nsrdzdah": 610012003923266253,
+          "nsrmc": "西安银池商贸有限公司",
+          "jyje": 15598.29,
+          "jybl": 100.0,
+          "year": 2014,
+          "direction": 1,
+          "children": null
+        },
+        {
+          "nsrdzdah": 610012003923266253,
+          "nsrmc": "西安银池商贸有限公司",
+          "jyje": 15598.29,
+          "jybl": 100.0,
+          "year": 2014,
+          "direction": 1,
+          "children": null
+        }
+      ]
+    },
+    {
+      "nsrdzdah": 610012003923266253,
+      "nsrmc": "西安银池商贸有限公司",
+      "jyje": 15598.29,
+      "jybl": 100.0,
+      "year": 2014,
+      "direction": 1,
+      "children": [
+        {
+          "nsrdzdah": 610012003923266253,
+          "nsrmc": "西安银池商贸有限公司",
+          "jyje": 15598.29,
+          "jybl": 100.0,
+          "year": 2014,
+          "direction": 1,
+          "children": null
+        },
+        {
+          "nsrdzdah": 610012003923266253,
+          "nsrmc": "西安银池商贸有限公司",
+          "jyje": 15598.29,
+          "jybl": 100.0,
+          "year": 2014,
+          "direction": 1,
+          "children": null
+        }
+      ]
+    },
+    {
+      "nsrdzdah": 610012004056648165,
+      "nsrmc": "陕西申信科技有限公司",
+      "jyje": 13581.2,
+      "jybl": 84.16,
+      "year": 2014,
+      "direction": -1,
+      "children": [
+        {
+          "nsrdzdah": 610012004056648165,
+          "nsrmc": "陕西申信科技有限公司",
+          "jyje": 13581.2,
+          "jybl": 84.16,
+          "year": 2014,
+          "direction": -1,
+          "children": null
+        },
+        {
+          "nsrdzdah": 610100000000059741,
+          "nsrmc": "西安环太科技发展有限公司",
+          "jyje": 2555.56,
+          "jybl": 15.84,
+          "year": 2014,
+          "direction": -1,
+          "children": null
+        }
+      ]
+    },
+    {
+      "nsrdzdah": 610100000000059741,
+      "nsrmc": "西安环太科技发展有限公司",
+      "jyje": 2555.56,
+      "jybl": 15.84,
+      "year": 2014,
+      "direction": -1,
+      "children": [
+        {
+          "nsrdzdah": 610012004056648165,
+          "nsrmc": "陕西申信科技有限公司",
+          "jyje": 13581.2,
+          "jybl": 84.16,
+          "year": 2014,
+          "direction": -1,
+          "children": null
+        },
+        {
+          "nsrdzdah": 610100000000059741,
+          "nsrmc": "西安环太科技发展有限公司",
+          "jyje": 2555.56,
+          "jybl": 15.84,
+          "year": 2014,
+          "direction": -1,
+          "children": null
+        }
+      ]
+    }
+  ]
+}
