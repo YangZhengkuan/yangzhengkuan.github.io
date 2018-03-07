@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4998cfbb-eff5-4dbd-b756-87931b96ebd9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post-head.html" afterPath="$PROJECT_DIR$/_includes/post-head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-05-14-hibernate-settings.md" afterPath="$PROJECT_DIR$/_posts/2015-05-14-hibernate-settings.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-23-hadoop-install.md" afterPath="$PROJECT_DIR$/_posts/2015-09-23-hadoop-install.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-05-28-markdown.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-29-emment.md" afterPath="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,16 +66,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-05-29-emment.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-05-29-emment.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-emment.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="75" column="3" lean-forward="true" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
                 <folding>
-                  <marker date="1520392574266" expanded="true" signature="12:16" ph="post" />
-                  <marker date="1520392574266" expanded="true" signature="24:34" ph="常用Emment语法" />
-                  <marker date="1520392574266" expanded="true" signature="41:50" ph="前端 Emment" />
+                  <marker date="1520393158567" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520393158567" expanded="true" signature="24:34" ph="常用Emment语法" />
+                  <marker date="1520393158567" expanded="true" signature="41:50" ph="前端 Emment" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-05-28-markdown.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-05-28-markdown.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2296">
+                <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+                <folding>
+                  <marker date="1520393218272" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1520393218272" expanded="true" signature="24:36" ph="常用Markdown语法" />
+                  <marker date="1520393218272" expanded="true" signature="43:51" ph="Markdown" />
+                  <marker date="1520393218272" expanded="true" signature="945:979" ph="..." />
+                  <marker date="1520393218272" expanded="true" signature="1428:1471" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -106,16 +124,6 @@
       </file>
       <file leaf-file-name="primary-nav-items.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/primary-nav-items.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="docs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/docs.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -189,9 +197,10 @@
         <option value="$PROJECT_DIR$/_posts/2017-06-20-d3-tree.md" />
         <option value="$PROJECT_DIR$/_posts/2015-09-24-hadoop-cmd.md" />
         <option value="$PROJECT_DIR$/_posts/2015-05-14-hibernate-settings.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
         <option value="$PROJECT_DIR$/_posts/2015-09-23-hadoop-install.md" />
         <option value="$PROJECT_DIR$/_includes/post-head.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-05-28-markdown.md" />
       </list>
     </option>
   </component>
@@ -965,12 +974,12 @@
       <workItem from="1520254544156" duration="3836000" />
       <workItem from="1520300374079" duration="878000" />
       <workItem from="1520301772122" duration="1841000" />
-      <workItem from="1520347093733" duration="8775000" />
+      <workItem from="1520347093733" duration="9175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23638000" />
+    <option name="totallyTimeSpent" value="24038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1022,13 +1031,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/app.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="0" column="2169" lean-forward="false" selection-start-line="0" selection-start-column="2169" selection-end-line="0" selection-end-column="2169" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -1062,10 +1064,10 @@
         <state relative-caret-position="432">
           <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
-            <marker date="1520392766926" expanded="true" signature="92730:92747" ph="..." />
-            <marker date="1520392766926" expanded="true" signature="92730:92765" ph="..." />
-            <marker date="1520392766926" expanded="true" signature="92730:92778" ph="..." />
-            <marker date="1520392766926" expanded="true" signature="92730:92793" ph="..." />
+            <marker date="1520393158675" expanded="true" signature="94014:94031" ph="..." />
+            <marker date="1520393158675" expanded="true" signature="94014:94049" ph="..." />
+            <marker date="1520393158675" expanded="true" signature="94014:94062" ph="..." />
+            <marker date="1520393158675" expanded="true" signature="94014:94077" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1656,12 +1658,29 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-emment.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="75" column="3" lean-forward="true" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
             <folding>
-              <marker date="1520392574266" expanded="true" signature="12:16" ph="post" />
-              <marker date="1520392574266" expanded="true" signature="24:34" ph="常用Emment语法" />
-              <marker date="1520392574266" expanded="true" signature="41:50" ph="前端 Emment" />
+              <marker date="1520393158567" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520393158567" expanded="true" signature="24:34" ph="常用Emment语法" />
+              <marker date="1520393158567" expanded="true" signature="41:50" ph="前端 Emment" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-28-markdown.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2296">
+            <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+            <folding>
+              <marker date="1520393218272" expanded="true" signature="12:16" ph="post" />
+              <marker date="1520393218272" expanded="true" signature="24:36" ph="常用Markdown语法" />
+              <marker date="1520393218272" expanded="true" signature="43:51" ph="Markdown" />
+              <marker date="1520393218272" expanded="true" signature="945:979" ph="..." />
+              <marker date="1520393218272" expanded="true" signature="1428:1471" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
