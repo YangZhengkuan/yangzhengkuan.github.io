@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4998cfbb-eff5-4dbd-b756-87931b96ebd9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-03-14-java-io.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-03-15-ali.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-14-java.md" afterPath="$PROJECT_DIR$/_posts/2017-03-14-java.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,11 +47,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-03-14-java.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-java.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="-480">
+                <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+                <folding>
+                  <marker date="1521031049219" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1521031049219" expanded="true" signature="24:34" ph="Java基础知识总结" />
+                  <marker date="1521031049219" expanded="true" signature="41:55" ph="Java Interview" />
+                  <marker date="1521031049219" expanded="true" signature="5304:5611" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-14-java-io.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-java-io.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+                <folding>
+                  <marker date="1521032561768" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1521032561768" expanded="true" signature="24:38" ph="Java IO 基础知识总结" />
+                  <marker date="1521032561768" expanded="true" signature="45:59" ph="Java Interview" />
+                  <marker date="1521032561768" expanded="true" signature="2218:2257" ph="/**...*/" />
+                  <marker date="1521032561768" expanded="true" signature="2329:2800" ph="{...}" />
+                  <marker date="1521032561768" expanded="true" signature="2844:2855" ph=" { " />
+                  <marker date="1521032561768" expanded="true" signature="2893:2899" ph=" }" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-03-15-ali.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-15-ali.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-2688">
+                <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+                <folding>
+                  <marker date="1521044559814" expanded="true" signature="12:16" ph="post" />
+                  <marker date="1521044559814" expanded="true" signature="24:35" ph="回溯法方式解决实际问题" />
+                  <marker date="1521044559814" expanded="true" signature="42:56" ph="Java Interview" />
+                  <marker date="1521044559814" expanded="true" signature="1111:1150" ph="/**...*/" />
+                  <marker date="1521044559814" expanded="true" signature="1592:1843" ph="{...}" />
+                  <marker date="1521044559814" expanded="true" signature="1849:1908" ph="/**...*/" />
+                  <marker date="1521044559814" expanded="true" signature="1952:2188" ph="{...}" />
+                  <marker date="1521044559814" expanded="true" signature="2194:2259" ph="/**...*/" />
+                  <marker date="1521044559814" expanded="true" signature="2292:3394" ph="{...}" />
+                  <marker date="1521044559814" expanded="true" signature="3400:3470" ph="/**...*/" />
+                  <marker date="1521044559814" expanded="true" signature="3510:3757" ph="{...}" />
+                  <marker date="1521044559814" expanded="true" signature="3763:3873" ph="/**...*/" />
+                  <marker date="1521044559814" expanded="true" signature="3947:4135" ph="{...}" />
+                  <marker date="1521044559814" expanded="true" signature="4141:4190" ph="/**...*/" />
+                  <marker date="1521044559814" expanded="true" signature="4221:4364" ph="{...}" />
+                  <marker date="1521044559814" expanded="true" signature="4370:4419" ph="/**...*/" />
+                  <marker date="1521044559814" expanded="true" signature="4449:4587" ph="{...}" />
+                  <marker date="1521044559814" expanded="true" signature="4593:4766" ph="/**...*/" />
+                  <marker date="1521044559814" expanded="true" signature="4810:6005" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1564">
-              <caret line="222" column="7" lean-forward="false" selection-start-line="222" selection-start-column="7" selection-end-line="222" selection-end-column="7" />
+            <state relative-caret-position="484">
+              <caret line="177" column="43" lean-forward="false" selection-start-line="177" selection-start-column="43" selection-end-line="177" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -58,16 +133,6 @@
         <entry file="file://$PROJECT_DIR$/_includes/section_nav.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-198">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/news.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -84,28 +149,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/docs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="primary-nav-items.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/primary-nav-items.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -131,10 +176,12 @@
       <find>http:</find>
       <find>nig</find>
       <find>translate</find>
+      <find>#</find>
     </findStrings>
     <replaceStrings>
       <replace>```</replace>
       <replace>https:</replace>
+      <replace>###</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -183,9 +230,11 @@
         <option value="$PROJECT_DIR$/_posts/2017-05-28-markdown.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-29-emment.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-13-java.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-03-14-java.md" />
         <option value="$PROJECT_DIR$/_includes/post-head.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-14-java.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-14-java-io.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-15-ali.md" />
       </list>
     </option>
   </component>
@@ -206,10 +255,10 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -252,34 +301,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yangzhengkuan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yangzhengkuan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yangzhengkuan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yangzhengkuan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -901,15 +922,15 @@
       <workItem from="1520301772122" duration="1841000" />
       <workItem from="1520347093733" duration="10093000" />
       <workItem from="1520425762911" duration="714000" />
-      <workItem from="1520949937277" duration="13163000" />
+      <workItem from="1520949937277" duration="23455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38833000" />
+    <option name="totallyTimeSpent" value="49125000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -926,7 +947,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27083334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38584474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -958,14 +979,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/logo-2x.png" />
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1295,22 +1308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-java.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="496">
-            <caret line="143" column="20" lean-forward="false" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
-            <folding>
-              <marker date="1521009328669" expanded="true" signature="12:16" ph="post" />
-              <marker date="1521009328669" expanded="true" signature="24:34" ph="Java基础知识总结" />
-              <marker date="1521009328669" expanded="true" signature="41:55" ph="Java Interview" />
-              <marker date="1521009328669" expanded="true" signature="915:940" ph="/.../" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1399,6 +1396,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="177" column="43" lean-forward="false" selection-start-line="177" selection-start-column="43" selection-end-line="177" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post-head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
@@ -1407,11 +1412,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="222" column="7" lean-forward="false" selection-start-line="222" selection-start-column="7" selection-end-line="222" selection-end-column="7" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="-480">
+            <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+            <folding>
+              <marker date="1521031049219" expanded="true" signature="12:16" ph="post" />
+              <marker date="1521031049219" expanded="true" signature="24:34" ph="Java基础知识总结" />
+              <marker date="1521031049219" expanded="true" signature="41:55" ph="Java Interview" />
+              <marker date="1521031049219" expanded="true" signature="5304:5611" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-java-io.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+            <folding>
+              <marker date="1521032561768" expanded="true" signature="12:16" ph="post" />
+              <marker date="1521032561768" expanded="true" signature="24:38" ph="Java IO 基础知识总结" />
+              <marker date="1521032561768" expanded="true" signature="45:59" ph="Java Interview" />
+              <marker date="1521032561768" expanded="true" signature="2218:2257" ph="/**...*/" />
+              <marker date="1521032561768" expanded="true" signature="2329:2800" ph="{...}" />
+              <marker date="1521032561768" expanded="true" signature="2844:2855" ph=" { " />
+              <marker date="1521032561768" expanded="true" signature="2893:2899" ph=" }" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-15-ali.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-2688">
+            <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            <folding>
+              <marker date="1521044559814" expanded="true" signature="12:16" ph="post" />
+              <marker date="1521044559814" expanded="true" signature="24:35" ph="回溯法方式解决实际问题" />
+              <marker date="1521044559814" expanded="true" signature="42:56" ph="Java Interview" />
+              <marker date="1521044559814" expanded="true" signature="1111:1150" ph="/**...*/" />
+              <marker date="1521044559814" expanded="true" signature="1592:1843" ph="{...}" />
+              <marker date="1521044559814" expanded="true" signature="1849:1908" ph="/**...*/" />
+              <marker date="1521044559814" expanded="true" signature="1952:2188" ph="{...}" />
+              <marker date="1521044559814" expanded="true" signature="2194:2259" ph="/**...*/" />
+              <marker date="1521044559814" expanded="true" signature="2292:3394" ph="{...}" />
+              <marker date="1521044559814" expanded="true" signature="3400:3470" ph="/**...*/" />
+              <marker date="1521044559814" expanded="true" signature="3510:3757" ph="{...}" />
+              <marker date="1521044559814" expanded="true" signature="3763:3873" ph="/**...*/" />
+              <marker date="1521044559814" expanded="true" signature="3947:4135" ph="{...}" />
+              <marker date="1521044559814" expanded="true" signature="4141:4190" ph="/**...*/" />
+              <marker date="1521044559814" expanded="true" signature="4221:4364" ph="{...}" />
+              <marker date="1521044559814" expanded="true" signature="4370:4419" ph="/**...*/" />
+              <marker date="1521044559814" expanded="true" signature="4449:4587" ph="{...}" />
+              <marker date="1521044559814" expanded="true" signature="4593:4766" ph="/**...*/" />
+              <marker date="1521044559814" expanded="true" signature="4810:6005" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
