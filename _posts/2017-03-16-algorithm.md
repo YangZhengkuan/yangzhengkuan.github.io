@@ -54,3 +54,6 @@ public class Sqrt {
 
 ##### [TSP问题之分支限界法](https://blog.csdn.net/qq_32400847/article/details/51813606)
 
+##### [做算法题思路的一些总结](https://blog.csdn.net/buyulian/article/details/77988006)
+
+##### [LeetCode动态规划归纳](https://blog.csdn.net/king_like_coding/article/details/52904122)
