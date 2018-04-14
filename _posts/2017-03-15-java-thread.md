@@ -94,6 +94,6 @@ newFixedThreadPool 创建一个定长线程池，可控制线程最大并发数�
 
 ##### [Java 多线程（五）------线程通信（共享内存、管道流、wait()、notify()等）](https://blog.csdn.net/Zen99T/article/details/50837634)
 
-##### [Java中的内置锁和显式锁](https://blog.csdn.net/xiaokang123456kao/article/details/72599061)
-
 ##### [【并发】多线程编程中条件变量和虚假唤醒的讨论](https://blog.csdn.net/robinjwong/article/details/49842785)
+
+##### [Java并发编程：Callable、Future和FutureTask](http://www.cnblogs.com/dolphin0520/p/3949310.html)

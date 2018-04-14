@@ -24,4 +24,11 @@ tags: Interview
 
 ---
 
+##### 阿里五面
+
+[JavaScript方法call,apply,caller,callee,bind的使用详解及区别](https://blog.csdn.net/a125138/article/details/7854589)  
+[classloader 结构，是否可以自己定义一个 java.lang.String 类，为什么？ 双亲代理机制。](http://www.cnblogs.com/liuheng0315/p/7160794.html)  
+[【Java 并发】详解 ThreadLocal](http://www.cnblogs.com/zhangjk1993/p/6641745.html)
+
+
 ---

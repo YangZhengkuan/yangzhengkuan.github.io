@@ -32,7 +32,7 @@ tags: Interview
 
 ##### SpringBoot优点
 
-![](/assets/img/20180404152056.png)
+![](../assets/img/20180404152056.png)
 
 ##### [微服务文档（原文）](https://www.martinfowler.com/articles/microservices.html)
 
