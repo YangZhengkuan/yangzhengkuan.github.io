@@ -39,7 +39,7 @@ public class Sqrt {
 
 3. 对于正平方根整数部分，可以采用二分法
 
-##### [逆波兰计算器）](http://blog.csdn.net/lpveneno/article/details/54287858)
+##### [逆波兰计算器](http://blog.csdn.net/lpveneno/article/details/54287858)
 
 后缀表达式
 ```
